@@ -1,0 +1,15 @@
+{
+  "name": "seekerkit",
+  "version": "0.0.1",
+  "description": "The SKR-era production kit for Solana Mobile (Seeker) dApps: Genesis Token gating, Seeker ID, Seed Vault signing, on-chain USDC monetization, push, and dApp Store publishing.",
+  "type": "module",
+  "main": "src/index.js",
+  "license": "MIT",
+  "author": "ochinimus (seekdaseek)",
+  "repository": { "type": "git", "url": "https://github.com/seekdaseek/seekerkit" },
+  "keywords": ["solana","solana-mobile","seeker","skr","genesis-token","mobile-wallet-adapter","react-native","dapp-store","token-gating"],
+  "peerDependencies": {
+    "@solana/web3.js": "^1.90.0",
+    "@solana/spl-token": "^0.4.0"
+  }
+}

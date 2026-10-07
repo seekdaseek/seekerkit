@@ -52,9 +52,9 @@ grantReward(walletAddress);
 
 ## Proof of work
 
-Built by [ochinimus / seekdaseek](https://github.com/seekdaseek) — 7 apps live on the
+Built by [ochinimus / seekdaseek](https://github.com/seekdaseek) — 6 apps live on the
 Solana dApp Store on this exact stack (StakeStreak, SolWatch, DeepWork, RiskGuard,
-MarketBell, ShadowDrop, skrly), plus AgentFeed (x402 paid-data API) and x402-wallet
+MarketBell, ShadowDrop), plus AgentFeed (x402 paid-data API) and x402-wallet
 (dual-rail x402 payer library with real mainnet settlements).
 
 ## License
